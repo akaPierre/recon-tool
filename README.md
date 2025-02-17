@@ -217,13 +217,13 @@ git push origin feature/your-feature-name
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://chat.deepseek.com/a/chat/s/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://en.wikipedia.org/wiki/MIT_License) file for details.
 
 ---
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/your-username/recon-tool/issues).
+If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/akaPierre/recon-tool/issues).
 
 ---
 
